@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.currency {
+  padding: 5px;
+  margin: 5px;
+}
+
+.customButton {
+  border-radius: 50px;
+  border: none;
+  /* padding: 5px; */
+  width: 30px;
+  height: 30px;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
